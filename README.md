@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nvn27
 - 👀 I’m interested in Automation / CI-CD
-- 🌱 I’m currently learning Protractor / TypeSCript
+- 🌱 I’m currently learning Docker
 
 <!---
 nvn27/nvn27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
